@@ -1,0 +1,10 @@
+1) create a scraper that collects all the news from the publicly available news sources
+2) download into database that collects:
+	a) article
+	b) author
+	c) source
+	d) topic
+3) pipe database into mapping of sources depending of 2)x)
+4) compare this with mapping of NPL analysis of
+	2)a-d)
+5) make this a website

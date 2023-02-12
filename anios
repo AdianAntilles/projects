@@ -1,0 +1,4 @@
+1) start with an open tech hardware stack like RISC-V&U-Boot
+2) store payload in SSD
+3) spin up nic, evaluate machine, draw second payload (OS image) from Transformer model
+4) try to teach model modular kernel
