@@ -2,5 +2,12 @@ a) set up NLP model for processing expressions into positional arguments of poli
 b) make a website where people can
 	1) answer political questions about topics
 	2) suggest new political topics and questions
-c) give model capability to improve quetions depending on answers previously given
-d) give model capability to answer demographic questions about preferences of demographic
+	3) ask model for information about collected opinions
+c) give model A 
+	1) ability to write datapoints of collected opinionated data keyed to account into database
+	2) capability to improve questions depending on answers previously given -> feedback loop on clarity and brevity of answers
+d) give model B 
+	1) capability to answer demographic questions about preferences of demographic, including statistics and qualitative analysis
+
+end result:
+highly scalable democracy with statistical accountability without need of human knowledge of the political opinion of others. (world at [military] peace.)
